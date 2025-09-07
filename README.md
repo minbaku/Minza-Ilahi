@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Minza!
 
 🔬 **Bioinformatics Enthusiast**  
+
+
 Currently working on
-*[Decoding Pathogen–Host Molecular Mimicry Through Integrative Immunoinformatics and Structural Systems Biology for Predictive Autoimmunity Risk Assessment](project-link)*:  
+
+**[Decoding Pathogen–Host Molecular Mimicry Through Integrative Immunoinformatics and Structural Systems Biology for Predictive Autoimmunity Risk Assessment](project-link)**:  
 *This project seeks to systematically decode pathogen–host molecular mimicry — a phenomenon where pathogen proteins resemble human proteins, enabling immune evasion and triggering autoimmune disease. While previous studies have identified isolated cases (e.g., Campylobacter jejuni in Guillain-Barré syndrome), no integrative framework exists to comprehensively predict and rank mimicry events across pathogens.
 
 The research will develop a multi-layered computational pipeline combining sequence homology, epitope mapping, and structural bioinformatics with immune pathway analysis and AI-driven prioritization. High-confidence mimicry candidates will then be experimentally validated in collaboration with immunology laboratories.
@@ -18,7 +21,7 @@ Expected outcomes include an open-access web platform, a ranked atlas of mimicry
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects:
 
 ### [Evaluation of Strategies for High Expression of Certolizumab in E. coli](project-link)
 *Evaluation of expression optimization strategies for high-yield production of Certolizumab, a TNF-blocking therapeutic antibody fragment, in E. coli. Developed and analyzed workflows to enhance bacterial expression efficiency, with applications in autoimmune disease therapy.*
